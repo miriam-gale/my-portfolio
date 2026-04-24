@@ -3,7 +3,7 @@ Welcome to my personal portfolio website!
 This project showcases my skills, projects, and passion for building clean, user-friendly web experiences.
 
 🌐 Live Website
-🔗 https://github.com/miriam-gale/my-portfolio.git
+🔗 https://miriam-gale.github.io/my-portfolio/
 
 
 📌 About the Project
